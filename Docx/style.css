@@ -1,0 +1,9 @@
+*{
+    justify-content: center;
+    align-items: center;
+}
+
+.galeria{
+    box-sizing: border-box;
+    size: 100px 100px 100px;
+}
